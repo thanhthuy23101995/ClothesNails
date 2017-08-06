@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#dd2c00</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#f9a825</color>
+    <color name="colorCam">#ea6060</color>
+    <color name="bgToolBar">#dd2c00</color>
+    <color name="colorwhite">#fff</color>
+    <color name="bglogo">#f67122</color>
+    <color name="colorGrey">#CCC</color>
+    <color name="colorGoogle">#da4835</color>
+    <color name="colorFacebook">#4a6ea9</color>
+    <color name="colorBlack">#000</color>
 </resources>

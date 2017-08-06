@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857648173765",
+    "firebase_url": "https://clothesnails-c2834.firebaseio.com",
+    "project_id": "clothesnails-c2834",
+    "storage_bucket": "clothesnails-c2834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857648173765:android:29afc693576b17f6",
+        "android_client_info": {
+          "package_name": "com.example.nhimcoi.clothesnails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857648173765-c7icdqseu34rhddgvp810kq97uoqi6oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nhimcoi.clothesnails",
+            "certificate_hash": "e7e3b0f85b80ee241d91f9c002e27b09c975c6bd"
+          }
+        },
+        {
+          "client_id": "857648173765-b7sm17vc29ic9vrais8d2kqg4sieevqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShRK1bDPD3quTB5ez-q4c2fl-j_ayHxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857648173765-b7sm17vc29ic9vrais8d2kqg4sieevqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

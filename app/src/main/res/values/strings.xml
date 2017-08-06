@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">"ClothesNails "</string>
+    <string name="TG_TamTayBan">Thế giới trong tầm tay bạn</string>
+    <string name="Giao_hang">Giao hàng tận nơi + Thanh toán dễ dàng</string>
+    <string name="Tieu_dung">100% bảo vệ người tiêu dùng</string>
+    <string name="search_menu">Tìm kiếm</string>
+    <string name="giohang_menu">Giỏ hàng</string>
+    <string name="more_menu">More</string>
+    <string name="DangNhap_menu">Đăng Nhập</string>
+    <string name="ThongBao_menu">Thông Báo</string>
+    <string name="YeuThich_menu">Danh Sách mong muốn</string>
+    <string name="DonHang_menu">Đơn hàng của tôi</string>
+    <string name="CaiDat_menu">Cài Đặt</string>
+    <string name="ChinhSach_menu">Chính Sách</string>
+    <string name="TroGiup_menu">Trợ Giúp</string>
+    <string name="Tim_Kiem">Tìm kiếm trên ClothesNails</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>

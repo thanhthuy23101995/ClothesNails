@@ -7,5 +7,14 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
+    <style name="menuitemcolor" parent="AppTheme">
+        <item name="android:textColorPrimary">@color/bgToolBar</item>
+        <item name="drawerArrowStyle">@style/changecolordrawerlayout</item>
+    </style>
+    <style name="capfale" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="changecolordrawerlayout" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/colorwhite</item>
+    </style>
 </resources>
